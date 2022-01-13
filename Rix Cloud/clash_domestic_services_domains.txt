@@ -18,6 +18,16 @@ payload:
   
 # >> Akamai
   - '+.akadns.net'
+  
+# >> JD
+  - '+.360buy.com'
+  - '+.360buyimg.com'
+  - '+.jcloudcs.com'
+  - '+.jd.com'
+  - '+.jd.hk'
+  - '+.jdcloud.com'
+  - '+.jdpay.com'
+  - '+.paipai.com'
 
 # >> Alibaba
   - '+.1688.com'
@@ -233,7 +243,23 @@ payload:
   - '+.zmzapi.com'
   - '+.zmzapi.net'
   - '+.zmzfile.com'
-
+  
+# >> Douyu TV
+  - '+.douyu.com'
+  - '+.douyu.tv'
+  - '+.douyuscdn.com'
+  - '+.douyutv.com'
+  
+# >> HuaWei  
+  - '+.dbankcdn.com'
+  - '+.hc-cdn.com'
+  - '+.hicloud.com'
+  - '+.huawei.com'
+  - '+.huaweicloud.com'
+  - '+.huaweishop.net'
+  - '+.hwccpc.com'
+  - '+.vmall.com'
+  - '+.vmallres.com'
 
 # > Content Delivery Network
   - '+.ccgslb.com'
