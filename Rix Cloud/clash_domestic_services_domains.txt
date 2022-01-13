@@ -2,10 +2,20 @@ payload:
 
 # --- Mainland China Available --
 
-# >> 360
-  - '+.qhimg.com'
+# >> 360 
+  - '+.360.com'
+  - '+.360kuai.com'
+  - '+.360safe.com'
+  - '+.dhrest.com'
   - '+.qhres.com'
-
+  - '+.qhimg.com'
+  - '+.qhstatic.com'
+  - '+.qhupdate.com'
+  - '+.so.com'
+  
+#>> 58
+  - '+.,58.com'
+  
 # >> Akamai
   - '+.akadns.net'
 
@@ -51,22 +61,19 @@ payload:
 # >> Apple
   - '+.icloud.com.cn'
 
-# >> Baidu
+# >> Baidu  
   - '+.baidu.com'
   - '+.baidubcr.com'
+  - '+.baidupcs.com'
+  - '+.baidustatic.com'
+  - '+.bcebos.com'
+  - '+.bdimg.com'
   - '+.bdstatic.com'
+  - '+.bdurl.net'
+  - '+.hao123.com'
+  - '+.hao123img.com'
+  - '+.jomodns.com'
   - '+.yunjiasu-cdn.net'
-
-# >> bilibili
-  - '+.acg.tv'
-  - '+.acgvideo.com'
-  - '+.biliapi.com'
-  - '+.biliapi.net'
-  - '+.bilibili.cn'
-  - '+.bilibili.com'
-  - '+.bilibili.tv'
-  - '+.bilivideo.com'
-  - '+.hdslb.com'
 
 # >> Blizzard
   - '+.battle.net'
@@ -353,5 +360,10 @@ payload:
   - '+.zhihu.com'
   - '+.zhimg.com'
   - '+.zhuihd.com'
-
+  
+# >>CN域名直连
+  - '+.cn'
+  - '+.中国'
+  - '+.公司'
+  - '+.网络'
 # --- End of Mainland China Available Section ---
