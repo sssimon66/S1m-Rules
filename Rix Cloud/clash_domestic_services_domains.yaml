@@ -29,6 +29,45 @@ payload:
   - '+.jdpay.com'
   - '+.paipai.com'
 
+# >> Alibaba
+  - '+.1688.com'
+  - '+.aliapp.org'
+  - '+.alibaba.com'
+  - '+.alibabacloud.com'
+  - '+.alibabausercontent.com'
+  - '+.alicdn.com'
+  - '+.alicloudccp.com'
+  - '+.aliexpress.com'
+  - '+.aliimg.com'
+  - '+.alikunlun.com'
+  - '+.alipay.com'
+  - '+.alipayobjects.com'
+  - '+.alisoft.com'
+  - '+.aliyun.com'
+  - '+.aliyuncdn.com'
+  - '+.aliyuncs.com'
+  - '+.aliyundrive.com'
+  - '+.amap.com'
+  - '+.autonavi.com'
+  - '+.dingtalk.com'
+  - '+.ele.me'
+  - '+.hichina.com'
+  - '+.mmstat.com'
+  - '+.mxhichina.com'
+  - '+.soku.com'
+  - '+.taobao.com'
+  - '+.taobaocdn.com'
+  - '+.tbcache.com'
+  - '+.tbcdn.com'
+  - '+.tmall.com'
+  - '+.tmall.hk'
+  - '+.ucweb.com'
+  - '+.xiami.com'
+  - '+.xiami.net'
+  - '+.ykimg.com'
+  - '+.youku.com'
+
+
 # >> Apple
   - '+.icloud.com.cn'
 
@@ -96,6 +135,17 @@ payload:
   - '+.test-ipv6.com'
   - '+.whatismyip.com'
 
+# >> iQiyi
+  - '+.71.am.com'
+  - '+.iqiyi.com'
+  - '+.iqiyipic.com'
+
+# >> JD
+  - '+.360buyimg.com'
+  - '+.jd.com'
+  - '+.jd.hk'
+  - '+.jdpay.com'
+
 # > Kingsoft
   - '+.iciba.com'
   - '+.ksosoft.com'
@@ -113,6 +163,21 @@ payload:
   - '+.miui.com'
   - '+.miwifi.com'
   - '+.xiaomi.com'
+
+# >> Microsoft
+  - 'officecdn-microsoft-com.akamaized.net'
+  - '+.microsoft.com'
+  - '+.microsoftstore.com.cn'
+  - '+.msecnd.net'
+  - '+.msftconnecttest.com'
+  - '+.msftncsi.com'
+  - '+.outlook.com'
+  - '+.s-microsoft.com'
+  - '+.sfx.ms'
+  - '+.sharepoint.com'
+  - '+.visualstudio.com'
+  - '+.windows.com'
+  - '+.windowsupdate.com'
 
 # Rainway
   - 'cya.gg'
@@ -147,6 +212,14 @@ payload:
   - '+.sogo.com'
   - '+.sogou.com'
   - '+.sogoucdn.com'
+
+# >> Stream
+  - '+.jstarkan.com'
+
+# >> Tencent
+  - 'vi.l.qq.com'
+  - '+.dns.pub'
+  - '+.doh.pub'
 
 # >> TeslaMap
   - '+.52tesla.com'
