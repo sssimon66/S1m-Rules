@@ -5,8 +5,8 @@
 
 ## 规则明细
 
-当前分流规则，已包含以下子规则，除非特殊需求否则不建议重复引用：
-| 规则明细  |  |  |  |  |  |
+当前分流规则，已包含以下子规则：
+| <img src="https://github.com/sssimon66/S1m-Rules/blob/main/image/YouTube%20logo.png?raw=true?raw=true" width="30px"> | <img src="https://github.com/sssimon66/S1m-Rules/blob/main/image/YouTubeMusic_Logo.png?raw=true?raw=true" width="30px"> | <img src="https://github.com/sssimon66/S1m-Rules/blob/main/image/Google%20Eart%20logo.png?raw=true?raw=true" width="30px"> | <img src="https://github.com/sssimon66/S1m-Rules/blob/main/image/Google%20%20G%20Logo.png?raw=true" width="30px"> | <img src="https://github.com/sssimon66/S1m-Rules/blob/main/image/Firebase%20FCM%20logo.png?raw=true?raw=true?raw=true" width="30px"> | <img src="https://github.com/sssimon66/S1m-Rules/blob/main/image/Google%20%20G%20Logo.png?raw=true?raw=true" width="30px"> |
 | ---- | ---- | ----  | ----  | ----  | ----  |
 | YouTuBe | YouTubeMusic | Google Earth  | Google  |Google FCM推送服务  |Google CN  |
 
