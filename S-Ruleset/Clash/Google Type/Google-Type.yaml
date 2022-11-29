@@ -4,6 +4,7 @@
 # QTY:  311
 # BRIEF: YouTuBe/YouTubeMusic/Google Earth/Googla/Google FCM推送服务/Google CN
 
+payload:
 #---YouTuBe视频---
   - DOMAIN-SUFFIX,ggpht.cn
   - DOMAIN-SUFFIX,ggpht.com
