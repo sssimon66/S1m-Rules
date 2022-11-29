@@ -1,8 +1,8 @@
 # NAME: Google Class 谷歌类规则
-# AUTHOR: blackmatrix7
+# AUTHOR: S1m
 # UPDATED: 2022年11月29日11:50:13
-# DOMAIN-SUFFIX: 19
-# TOTAL: 19
+# TOTAL Qty: 311
+# BRIEF: YouTuBe/YouTubeMusic/Google Earth/Googla/Google FCM推送服务/Google CN
 
 #---YouTuBe视频---
 DOMAIN-SUFFIX,ggpht.cn
