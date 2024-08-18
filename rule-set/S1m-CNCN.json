@@ -4,7 +4,7 @@
     {
       "domain": [
         "owlxjz.lol",
-	".csgo.wmsj.cn",
+        ".csgo.wmsj.cn",
         ".dl.steam.clngaa.com",
         ".dl.steam.ksyna.com",
         ".dota2.wmsj.cn",
@@ -36,6 +36,7 @@
         ".steamcontent.com",
         ".steamserver.net",
         ".steamusercontent.com"
+      ]
     }
   ]
 }
