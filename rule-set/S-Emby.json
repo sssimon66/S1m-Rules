@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "emby.nexitally.com",
+        "plusmedia.site",
+		"emby.xeton.dev",
+        "emby.wtf"
+      ]
+    }
+  ]
+}
