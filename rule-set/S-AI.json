@@ -2,14 +2,14 @@
   "version": 1,
   "rules": [
     {
-        "domain_suffix": [
-          "suno.com",
-		  "suno.ai",
-		  "anthropic.com",
-		  "claude.ai"
-        ],
-        "domain_keyword": [
-          "suno"
+      "domain_suffix": [
+        "suno.com",
+        "suno.ai",
+        "anthropic.com",
+        "claude.ai"
+      ],
+      "domain_keyword": [
+        "suno"
       ]
     }
   ]
