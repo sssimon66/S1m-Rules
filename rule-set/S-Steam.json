@@ -17,12 +17,12 @@
       ],
       "domain_suffix": [
         ".cm.steampowered.com",
-		".steamserver.net",
+	".steamserver.net",
         ".steamchina.com",
         ".steamcontent.com",
         ".steamusercontent.com"
       ],
-	  "ip_cidr": [
+      "ip_cidr": [
         "103.10.124.0/23",
         "103.28.54.0/24",
         "146.66.152.0/24",
